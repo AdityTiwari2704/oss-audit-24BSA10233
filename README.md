@@ -1,7 +1,7 @@
 # OSS Audit Project
 
-Name: Shubham Singh  
-Registration Number: 24BEY10020  
+Name: Aditya Kumar Tiwari 
+Registration Number: 24BSA10233
 
 Software: Apache HTTP Server
 
